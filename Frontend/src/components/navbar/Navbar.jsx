@@ -26,6 +26,7 @@ const Navbar = () => {
         <Text>Merch</Text>
 
         <Text>Find A KFC </Text>
+        
         <Box> <CiShare1/></Box>
   
       </Box>
